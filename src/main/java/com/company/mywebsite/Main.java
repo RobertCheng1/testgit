@@ -15,6 +15,7 @@ public class Main {
         cpx.setAge(23);
         System.out.printf("cpx.getName = %s\n", cpx.getName());
         System.out.printf("cpx.getAge = %d\n", cpx.getAge());
+        System.out.println("this is the good info");
     }
 
 
