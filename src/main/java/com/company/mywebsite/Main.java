@@ -8,6 +8,7 @@ public class Main {
         System.out.println("aaa");
         Person person = new Person();
         person.setName("Jordan");
+        person.setAge(22);
     }
 
 
