@@ -7,7 +7,7 @@ public class Main {
         // write your code here
         System.out.println("aaa");
         Person person = new Person();
-        person.setName("Jordan");
+        person.setName("JordanMike");
         person.setAge(22);
     }
 
