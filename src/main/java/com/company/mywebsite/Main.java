@@ -13,7 +13,7 @@ public class Main {
         Person cpx = new Person();
         cpx.setName("cpx");
         cpx.setAge(23);
-        System.out.printf("cpx.getName = %d\n", cpx.getName());
+        System.out.printf("cpx.getName = %s\n", cpx.getName());
         System.out.printf("cpx.getAge = %d\n", cpx.getAge());
     }
 
