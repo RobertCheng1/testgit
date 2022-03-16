@@ -2,6 +2,7 @@ package com.company.mywebsite;
 
 import lombok.Data;
 
+
 /**
  * @Author: chengpengxing
  * @Description:
@@ -11,4 +12,5 @@ import lombok.Data;
 @Data
 public class Person {
     private String name;
+    private Integer age;
 }
