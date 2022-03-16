@@ -8,7 +8,7 @@ public class Main {
         System.out.println("aaa");
         Person person = new Person();
         person.setName("JordanMike");
-        person.setAge(22);
+        person.setAge(2222);
 
         Person cpx = new Person();
         cpx.setName("cpx");
