@@ -9,6 +9,10 @@ public class Main {
         Person person = new Person();
         person.setName("Jordan");
         person.setAge(22);
+
+        Person cpx = new Person();
+        cpx.setName("cpx");
+        cpx.setAge(23);
     }
 
 
