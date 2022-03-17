@@ -12,4 +12,5 @@ import lombok.Data;
 public class Student extends Person {
 
     private Integer score;
+    private String subject;
 }
